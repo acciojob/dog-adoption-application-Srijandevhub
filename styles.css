@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.form-container {
+	max-width: 500px;
+	margin: 0 auto;
+}
+.form-group {
+	margin-bottom: 10px;
+}
+.form-control {
+	width: 463px;
+	height: 40px;
+	padding: 0 17px;
+	border-radius: 60px;
+	border: 1px solid #000;
+}
+.btn {
+	display: flex;
+	width: 100%;
+	border: none;
+	background: blue;
+	color: #fff;
+	height: 30px;
+}
+select {
+	width: 100%;
+}
